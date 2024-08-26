@@ -1,7 +1,7 @@
 '''
+John Diaz
 Class: Summer Mastery 
 Date: July 27th
-Name: Gonza
 
 Purpose: This program is meant to take in a file and output specific information about the contents of the file. In addition, it creates a new file using anohter file, replacing its keywords with user input. 
 '''
