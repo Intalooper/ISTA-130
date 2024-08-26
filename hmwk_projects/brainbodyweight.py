@@ -1,11 +1,10 @@
 '''
-Name: John Diaz-Leal
+Name: John Diaz
 Class: ISTA 130
 Professor: Dozal
 
 Purpose: 
 '''
-
 #Do not use the tab character for indentation 
 #keep in mind good nameing practices, and use loops where there is duplicated code
 #document!
